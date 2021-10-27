@@ -12,5 +12,5 @@ int main()
     
     printf("x %.2f",m/(-d));
     
-	return 0;
+    return 0;
 }
