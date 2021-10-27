@@ -25,5 +25,5 @@ int main()
     
     else printf("%s will reach a speed of %0.2f m/s on a %d ramp crossing %0.1f of %.1f meters, LIKE A LEGEND!", name, speed1, ramp, distance, width);
 
-	return 0;
+    return 0;
 }
