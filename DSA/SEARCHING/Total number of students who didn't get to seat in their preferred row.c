@@ -25,8 +25,7 @@ int main() {
             }
             else if (b[a[x]+1] < k && extra >0) {
                 b[a[x]+1]++;
-                count++;
-                extra--;
+                count++; extra--;
             }
             else
                 count++;
